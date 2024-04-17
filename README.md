@@ -1,4 +1,4 @@
-# Aastha Bhatt 👧🏻
+# Aastha Bhatt (Ash) 👧🏻
 
 🎓 Recent CS Graduate | 🌟 Aspiring Product Manager | 💻 Tech & Finance Enthusiast
 
