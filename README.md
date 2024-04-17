@@ -21,14 +21,16 @@ I'm a recent graduate with a B.S. in Computer Science from the University of Ken
 
 📚 **My Goals**
 - Launch a career in Product Management by securing an entry-level position where I can learn, grow, and eventually lead.
-- Earn a master's degree in a related field to deepen my technical and managerial skills.
 - Build a network with professionals in the tech and finance industries to exchange knowledge and opportunities.
+- Create my own product within 2 years.
 
 💼 **Relevant Experiences**
 - **Product Manager Intern | University of Kentucky** (Jan 2023 - May 2023)
   - Developed and managed 'CatSafe', an anonymous online chat platform for over 30,000 students.
 - **Project Manager | Maiti Nepal** (May 2023 - Aug 2023)
   - Led a self-defense and empowerment workshop for 97 school girls, demonstrating impactful project execution.
+- **MediCheck** (April 2024) 
+  -Patient Safety Hackathon winner 
 
 🌟 **Leadership Experience**
 - I thrive in roles that require vision and initiative, evident from leading diverse teams and projects during my academic and professional journey.
@@ -36,4 +38,4 @@ I'm a recent graduate with a B.S. in Computer Science from the University of Ken
 📫 **Let's Connect!**
 Feel free to reach out for job opportunities, collaboration on tech projects, or to simply chat about the exciting world of Product Management.
 
-I am looking forward to hearing from you!
+I am looking forward to hearing from you! 😊
