@@ -1,4 +1,4 @@
-# Hello there, I'm Aastha Bhatt! 👋
+# Aastha Bhatt here! 👋
 
 🎓 Recent CS Graduate | 🌟 Aspiring Product Manager | 💻 Tech & Finance Enthusiast
 
