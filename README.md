@@ -38,4 +38,4 @@ I'm a recent graduate with a B.S. in Computer Science from the University of Ken
 📫 **Let's Connect!**
 Feel free to reach out for job opportunities, collaboration on tech projects, or to simply chat about the exciting world of Product Management.
 
-I am looking forward to hearing from you! 😊
+I am looking forward to hearing from you! Let's connect! 😊
