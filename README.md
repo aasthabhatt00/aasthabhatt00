@@ -5,9 +5,9 @@
 I'm a recent graduate with a B.S. in Computer Science from the University of Kentucky, diving headfirst into the world of Product Management in the tech and finance sectors. After a significant switch from Biology to Computer Science during my undergraduate studies, I've been passionately immersing myself in everything tech and product-related.
 
 🚀 **About Me**
-- 🌱 I'm currently honing my skills through online certifications in Product Launch and Roadmapping, AI Product Management, and Agile methodologies.
+- 🌱 I'm currently honing my skills through online certifications in frontend SWE Product Launch and Roadmapping, AI Product Management, and Agile methodologies.
 - 👯 I’m looking to collaborate on innovative product development projects that are at the intersection of technology and user impact.
-- 🤔 I'm eager to learn from seasoned product managers and contribute to products that make a real difference.
+- 🤔 I'm eager to learn from seasoned Software engineers , product managers and contribute to products that make a real difference.
 - 📫 How to reach me: [aastha.bhatt111@gmail.com](mailto:aastha.bhatt111@gmail.com)
 - ⚡ Fun fact: I recently returned from a rejuvenating three-month visit to Nepal, my home country, after 8 years!
 
