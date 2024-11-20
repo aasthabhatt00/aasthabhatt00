@@ -1,6 +1,6 @@
 # Aastha Bhatt 👧🏻
 
-🎓 Recent CS Graduate | 🌟 Aspiring Product Manager | 💻 Tech & Finance Enthusiast
+🎓 Recent CS Graduate | 🌟 Software Engineer | 💻 Tech & Finance Enthusiast
 
 I'm a recent graduate with a B.S. in Computer Science from the University of Kentucky, diving headfirst into the world of Product Management in the tech and finance sectors. After a significant switch from Biology to Computer Science during my undergraduate studies, I've been passionately immersing myself in everything tech and product-related.
 
